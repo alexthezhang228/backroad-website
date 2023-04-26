@@ -2,7 +2,7 @@
  * @Author: alexthezhang228 110424337+alexthezhang228@users.noreply.github.com
  * @Date: 2023-03-31 12:07:00
  * @LastEditors: alexthezhang228 110424337+alexthezhang228@users.noreply.github.com
- * @LastEditTime: 2023-04-26 13:13:42
+ * @LastEditTime: 2023-04-26 13:55:50
  * @FilePath: /backroads/myapp/src/data.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -10,6 +10,7 @@ import tour1 from './images/tour-1.jpeg'
 import tour2 from './images/tour-2.jpeg'
 import tour3 from './images/tour-3.jpeg'
 import tour4 from './images/tour-4.jpeg'
+
 export const pageLinks=[
   {id:1,href:'#home',text:'home'},
   {id:2,href:'#about',text:'about'},

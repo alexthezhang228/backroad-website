@@ -2,7 +2,7 @@
  * @Author: alexthezhang228 110424337+alexthezhang228@users.noreply.github.com
  * @Date: 2023-03-31 11:23:54
  * @LastEditors: alexthezhang228 110424337+alexthezhang228@users.noreply.github.com
- * @LastEditTime: 2023-04-26 11:37:39
+ * @LastEditTime: 2023-04-26 14:22:55
  * @FilePath: /backroads/myapp/src/components/About.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -32,9 +32,9 @@ const About=()=>{
             quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
             unde dolor?
           </p>
-          <a href="#" className="btn">read more</a>
+          <a href="#about" className="btn">read more</a>
         </article>
-      </div>
+      </div>  
     </section>
   )
 }
